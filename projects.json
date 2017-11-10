@@ -1,0 +1,14 @@
+projects: [
+         {
+           title: 'Business Website',
+           category: 'Web Design'
+         },
+         {
+           title: 'Social App',
+           category: 'Mobile Development'
+         },
+         {
+           title: 'Ecommerce Shopping Cart',
+           category: 'Web Development'
+         }
+     ]
